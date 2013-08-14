@@ -1,0 +1,9 @@
+/* Say Hello
+ Say Hello Twice */
+"Hello!" = "您好!";
+
+/* Current Language */
+"Language" = "语言";
+
+/* Share */
+"Share" = "分享";
